@@ -1,0 +1,12 @@
+body {
+  url("paper.gif");
+  background-color: #cccccc;
+}
+h1 {
+  color: red;
+  font-size: bold;
+}
+
+ul {
+  color: blue;
+}
